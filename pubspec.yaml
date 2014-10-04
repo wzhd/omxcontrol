@@ -2,4 +2,4 @@ name: omxcontrol
 version: 0.0.1
 description: Dart module to control omxplayer. Specifically written for the raspberry pi
 author: Zihao Wang <wzhdev@gmail.com>
-license: BSD
+homepage: https://github.com/wzhd/omxcontrol
